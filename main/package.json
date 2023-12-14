@@ -1,5 +1,5 @@
 {
-  "name": "main",
+  "name": "dans_fe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,5 +29,10 @@
     "sass": "^1.33.0",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
+  },
+  "author": {
+    "name": "Ridwan Arifin",
+    "email": "r.arifin123@gmail.com",
+    "url": "https://github.com/dans_fe"
   }
 }
